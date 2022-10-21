@@ -1,8 +1,10 @@
 # port-scanner
 
 
-this is an simple portscanner using python 
-it scabs all the ports way down from 1 to 65535 ports u can change it in the field provided 
+This is an simple portscanner using python 
+it scans all the ports way down from 1 to 65535 ports
+
+also, you can change it in the field provided according to your need 
 
 for port in range(1, 65535):
 
