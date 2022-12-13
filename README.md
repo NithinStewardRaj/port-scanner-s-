@@ -19,7 +19,7 @@ systax ======> example: python3 portscanner.py 162.168.216.131
   
   ######################################################################
   
-  This repo is full of python port scanning tools built in python
+  Thz repo is full of port scanning tools built in python🐍
   
   i hope u love it .....?
   
